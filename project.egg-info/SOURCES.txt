@@ -1,0 +1,15 @@
+setup.py
+F6S/__init__.py
+F6S/items.py
+F6S/middlewares.py
+F6S/pipelines.py
+F6S/settings.py
+F6S/spiders/__init__.py
+F6S/spiders/spider_f6s_detail.py
+F6S/spiders/spider_f6s_founder.py
+F6S/spiders/spider_f6s_initial.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
