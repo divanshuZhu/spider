@@ -20,7 +20,7 @@ djangorestframework==3.7.7
 docker-py==1.10.6
 docker-pycreds==0.2.1
 EasyProcess==0.2.3
-ecdsa==0.13
+ecdsa==0.13.3
 elasticsearch==6.1.1
 enum34==1.1.2
 fake-useragent==0.1.8
