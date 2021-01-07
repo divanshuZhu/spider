@@ -31,7 +31,7 @@ idna==2.5
 ipaddress==1.0.19
 ipython==2.4.1
 jieba==0.39
-lxml==3.8.0
+lxml==4.6.2
 meld==3.14.2
 mercurial==3.7.3
 mysql-connector-python==2.0.4
