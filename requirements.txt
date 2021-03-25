@@ -66,7 +66,7 @@ python-utils==2.2.0
 pytrends==4.3.0
 pytz==2014.10
 PyVirtualDisplay==0.2.1
-PyYAML==3.12
+PyYAML==5.4
 queuelib==1.1.1
 regex==2018.1.10
 requests==2.18.3
