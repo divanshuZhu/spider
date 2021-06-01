@@ -90,7 +90,7 @@ Twisted==16.0.0
 tzlocal==1.5.1
 ua-parser==0.3.6
 unity-lens-photos==1.0
-urllib3==1.22
+urllib3==1.26.5
 user-agents==1.1.0
 vboxapi==1.0
 virtualenv==15.1.0
