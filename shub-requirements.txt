@@ -1,5 +1,5 @@
 Scrapy==1.4.0
 fake-useragent==0.1.5
-lxml==3.8.0
+lxml==4.9.1
 requests==2.18.3
 scrapy-proxies==0.3
