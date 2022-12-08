@@ -4,7 +4,7 @@ backports.ssl-match-hostname==3.5.0.1
 BeautifulSoup==3.2.1
 beautifulsoup4==4.4.1
 boto==2.38.0
-certifi==2018.1.18
+certifi==2022.12.7
 chardet==3.0.4
 chromedriver==2.24.1
 click==6.7
